@@ -33,7 +33,7 @@ export function GridBackgroundDemo() {
             alt="Developer" 
             layout="fill" 
             objectFit="cover" 
-            className="rounded-full shadow-lg"
+            className="rounded-full shadow-lg "
           />
         </div>
       </div>
