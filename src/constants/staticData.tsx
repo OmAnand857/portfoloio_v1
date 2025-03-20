@@ -245,6 +245,7 @@ export const navItems = [
 
   interface TimelineItem {
     title: string;
+    //@ts-ignore
     content: JSX.Element;
   }
 
