@@ -1,6 +1,6 @@
 "use client"
 import { GridBackgroundDemo } from "@/components/GridAndDotBackgrounds";
-import { FloatingDockDemo } from "@/components/FloatingDock";
+import FloatingDockDemo from "@/components/FloatingDock";
 import  Grid  from "../components/Grid";
 import { RecentProjects } from "@/components/ProjectCards";
 import { TimelineDemo } from "@/components/TimeLine";

@@ -54,7 +54,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
+      title: "Currently working on a WEB3 based Blogging Platform",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -103,7 +103,7 @@ export const navItems = [
       id: 4,
       title: "Blue Bot – AI-Powered Twitter Automation Application",
       des: "Blue Bot is a smart Twitter bot that fetches trending content, crafts engaging tweets with AI, and posts them automatically on schedule. Manage settings, API keys, and themes through an easy-to-use interface made with Flutter.",
-      img: "/_bluebot.jpg",
+      img: "/_blogo.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
       link: "https://github.com/OmAnand857/bluebot-app",
     },
