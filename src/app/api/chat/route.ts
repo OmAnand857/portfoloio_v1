@@ -11,7 +11,7 @@ export async function POST(req: Request) {
 
     const response = await groq.chat.completions.create({
       messages,
-      model: "llama3-70b-8192",
+      model: "llama-3.3-70b-versatile",
     });
 
     return NextResponse.json({

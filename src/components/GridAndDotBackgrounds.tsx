@@ -22,7 +22,7 @@ export function GridBackgroundDemo() {
       
       {/* Hero Content */}
       <div className="flex flex-col items-center px-5 md:w-2/3 absolute top-10 text-center">
-        <h1 className="text-xl uppercase mb-4">Dynamic Web Magic with Next.js</h1>
+        {/* <h1 className="text-xl uppercase mb-4">Dynamic Web Magic with Next.js</h1> */}
         <TextGenerateEffectLarge />
         <TextGenerateEffectSmall />
         

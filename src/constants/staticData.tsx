@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 export const wordsLarge = "Transforming Concepts into Seamless User Experiences"
-export const wordsSmall = "Hi! I'm Om Anand, a Next.js Developer based in India."
+export const wordsSmall = "Hi! I'm Om Anand, a Full Stack Developer based in India."
 
 export const navItems = [
     { name: "About", link: "#about" },
